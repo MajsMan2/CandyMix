@@ -5,3 +5,8 @@ and Noname who wants to see the big boxing match are gathering at the local "bla
 Imagine if the trip to the candy-store can be replaced by an app, so that the user can order "bland selv slik" in the comfort of his/hers own home, 
 or on the train ride home from work, and get it delivered right to your door. This is now possible with the creation of "CandyMix".
 
+Moscow:
+M(ust have):
+S(hould have):
+C(ould have):
+W(ill not have):
