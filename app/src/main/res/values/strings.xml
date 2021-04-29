@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Candy Mix</string>
+    <string name="candymix">CandyMix</string>
+    <string name="todo">TODO</string>
 </resources>
