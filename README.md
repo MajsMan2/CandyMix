@@ -10,3 +10,8 @@ M(ust have): Intuitive interface/menu, ability to choose which (and how much) ca
 S(hould have):Categories (brand or flavour), streamlined user experience(it should have a color-theme and so on througout the app), 
 C(ould have): Ability to customize profile for more userinteraction, candy-community, collaboration with Just Eat or Wolt, 
 W(ill not have): fully integrated payment system, the right prices on candy, all the needed security
+
+I think the intuitive interface/menu system implemented in the system is pretty well thought out, and easy to use. The ability to choose which candy, 
+and how much you want was implemented in the design, but not fully realized in the coding. It is possible to create a profile, and this is possible through the login screen.
+Categories was a feature until the last days of the project, and the streamlined user experience is pretty well integrated. 
+It does not have the could have, and will not have features. 
